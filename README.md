@@ -21,12 +21,6 @@
 </div>
 
 🕯️ Repository Collaborators
-<!-- COLLABORATOR_COUNT_START -->
-
-<!-- COLLABORATOR_COUNT_END -->
-
-<sub>The collaborator badge is updated by GitHub Actions. It counts collaborators visible to the repository's GitHub token; pending invitations may not be included.</sub>
-🧠 AI Tools & Workflow
 <div align="center">
 
 
@@ -38,5 +32,5 @@
 </div>
 
 <div align="center">
-  <i>Stay sharp. Build quietly. Let the commits speak. 😈</i>
+  <i> !😈! Stay sharp. Build quietly. Let the commits speak. !😈! </i>
 </div>

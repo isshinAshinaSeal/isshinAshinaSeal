@@ -7,14 +7,12 @@
 </div>
 
 🩸 GitHub Activity
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=isshinAshinaSeal&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=C9D1D9" alt="GitHub commits and repository statistics" />
+
   <img height="175" src="https://streak-stats.demolab.com?user=isshinAshinaSeal&theme=dark&hide_border=true&background=0D1117&ring=FF003C&fire=FF003C&currStreakLabel=FF003C&sideLabels=FF003C&dates=C9D1D9" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isshinAshinaSeal&bg_color=0D1117&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" alt="GitHub commit activity chart" />
-</div>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isshinAshinaSeal&bg_color=0D1117&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" 
 
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isshinAshinaSeal&theme=github_dark" alt="GitHub contribution summary chart" />

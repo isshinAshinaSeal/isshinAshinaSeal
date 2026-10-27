@@ -1,6 +1,6 @@
 <div align="center">
 
-🔥 OVERVIEW — MASTER 😈
+🔥 OVERVIEW FOR MASTER 😈
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2800&duration=8500&color=FF003C&center=true&vCenter=true&width=1000&height=90&lines=I+am+someone+else%27s+Master%2C+Thou+who+dare+to+mess+will+feel+it%27s+urging+pain+%F0%9F%91%B9" alt="Animated red typing quote" />
 
 

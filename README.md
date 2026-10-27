@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=isshinAshinaSeal&bg_color=0D1117&color=FF003C&line=FF003C&point=FFFFFF&area=true&hide_border=true" alt="GitHub commit activity chart" />
+
 </div>
 
 <div align="center">
